@@ -2,7 +2,7 @@
 
 > An editorial-style, single-page reference for **Claude Code** — fifteen chapters of visual notes compiled from the [CampusX playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvaYH3poI0oJvbDF4zEvpq8W) by Nitish Singh.
 
-[**→ View it live**](https://YOUR-USERNAME.github.io/claude-code-field-notes/) · Single HTML file · No build step · Mobile-friendly · Light & dark themes
+[**→ View it live**](https://imkushwaha.github.io/claude-code-notes/) · Single HTML file · No build step · Mobile-friendly · Light & dark themes
 
 ---
 
@@ -46,7 +46,7 @@ Eleven real-world artifacts are embedded as expandable references: three slash c
 
 ## How to use it
 
-**Online:** open the [live link](https://YOUR-USERNAME.github.io/claude-code-field-notes/) and read.
+**Online:** open the [live link](https://imkushwaha.github.io/claude-code-notes/) and read.
 
 **Locally:** download `index.html` and open it in any modern browser. No server, no dependencies, no setup.
 
@@ -56,7 +56,7 @@ Eleven real-world artifacts are embedded as expandable references: three slash c
 2. **Rename `claude-code-notes.html` to `index.html`** — GitHub Pages serves `index.html` at the root URL by default.
 3. In your repo, go to **Settings → Pages**.
 4. Under **Source**, choose **Deploy from a branch** → select **`main`** and **`/ (root)`** → click **Save**.
-5. GitHub Pages will publish at `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/` within a minute or two.
+5. GitHub Pages will publish at `https://imkushwaha.github.io/claude-code-notes/` within a minute or two.
 
 That's the entire deploy. No build, no CI, no config file.
 
